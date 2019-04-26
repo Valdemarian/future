@@ -1,4 +1,4 @@
-Демо проекта по ссылке http://www.gefestctroi.ru/future/ (тут его можно посмотреть).
+Демо проекта по ссылке https://valdemarian.github.io/future/ (тут его можно посмотреть).
 
 
 
