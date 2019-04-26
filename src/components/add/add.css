@@ -1,0 +1,51 @@
+.add-feed{
+	width: 75%;
+	padding: 0 15px;
+	margin-bottom: 20px;
+	height: 120px;
+	background-color: #5C656E;
+	display: flex;
+	align-items: center;
+	box-shadow: 0 0px 7px rgba(0,0,0,0.2);
+	border-radius: 5px
+
+}
+
+@media (min-width: 768px) {
+	.add-feed{
+		width: 75%;
+	}
+}
+
+.add-form{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	height: 85%;
+	flex-wrap: wrap;
+}
+
+
+.add-action{
+	height: 20%;
+	width: 30%;
+	margin-top: 7px;
+}
+
+.btn-cancel{
+	margin-left: 20px;
+}
+
+.btn-add-feed:hover{
+	background-color: #00BC8C;
+	border-color: #00BC8C;
+	box-shadow: 0 0px 3px rgba(0,0,0,0.5);
+}
+
+.add-input{
+	border-radius: 4px;
+	margin-top: 8px;
+	border: none;
+	height: 30px;
+	width: 30%;
+}
