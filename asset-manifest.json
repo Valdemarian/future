@@ -1,13 +1,13 @@
 {
-  "main.css": "/future/static/css/main.c5318323.chunk.css",
-  "main.js": "/future/static/js/main.f91fa271.chunk.js",
-  "main.js.map": "/future/static/js/main.f91fa271.chunk.js.map",
-  "runtime~main.js": "/future/static/js/runtime~main.6d88fafb.js",
-  "runtime~main.js.map": "/future/static/js/runtime~main.6d88fafb.js.map",
-  "static/js/2.2e3b560c.chunk.js": "/future/static/js/2.2e3b560c.chunk.js",
-  "static/js/2.2e3b560c.chunk.js.map": "/future/static/js/2.2e3b560c.chunk.js.map",
-  "index.html": "/future/index.html",
-  "precache-manifest.859bef539dedc69cad8947646f91cbf2.js": "/future/precache-manifest.859bef539dedc69cad8947646f91cbf2.js",
-  "service-worker.js": "/future/service-worker.js",
-  "static/css/main.c5318323.chunk.css.map": "/future/static/css/main.c5318323.chunk.css.map"
+  "main.css": "/futuredemo/static/css/main.c5318323.chunk.css",
+  "main.js": "/futuredemo/static/js/main.f91fa271.chunk.js",
+  "main.js.map": "/futuredemo/static/js/main.f91fa271.chunk.js.map",
+  "runtime~main.js": "/futuredemo/static/js/runtime~main.21da2ec3.js",
+  "runtime~main.js.map": "/futuredemo/static/js/runtime~main.21da2ec3.js.map",
+  "static/js/2.2e3b560c.chunk.js": "/futuredemo/static/js/2.2e3b560c.chunk.js",
+  "static/js/2.2e3b560c.chunk.js.map": "/futuredemo/static/js/2.2e3b560c.chunk.js.map",
+  "index.html": "/futuredemo/index.html",
+  "precache-manifest.1e91a4f50d611fac4af742bd367a72d6.js": "/futuredemo/precache-manifest.1e91a4f50d611fac4af742bd367a72d6.js",
+  "service-worker.js": "/futuredemo/service-worker.js",
+  "static/css/main.c5318323.chunk.css.map": "/futuredemo/static/css/main.c5318323.chunk.css.map"
 }
